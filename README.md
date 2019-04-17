@@ -14,3 +14,7 @@ generating depth map中的代码是将mat文件中的点云，根据低精数据
 此路径下的代码用于人脸identification。
 preprocess中有人脸检测和对齐的相关方法，feature extraction中是用LCNN或VGG等网络抽取特征，计算特征矩阵完成identification的代码。
 以上代码均为.m文件。
+## BRL_sensors_project_plan##
+此文档用于记录期刊工作完成的进度和细节信息。
+待办事项，每日更新。
+数据库存储位置，实验细节展示。
